@@ -1,13 +1,14 @@
 # Build and Release Folders
-bin-debug/
+bin-debug/게임노트
 bin-release/
-[Oo]bj/
-[Bb]in/
+[Oo]bj/캐드 
+[Bb]in/@김용호 
 
 # Other files and folders
-.settings/
+.settings/옵션
 
-# Executables
+
+# Executables게임만들기
 *.swf
 *.air
 *.ipa
